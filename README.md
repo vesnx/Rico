@@ -1,6 +1,6 @@
 # RICO (Reporting Incidents & Compromised Operations)
 
-RICO is a dedicated set of tool developed by VESNX to record and report suspicious activities that could indicate cyber abuse or compromise. Our goal is to aid victims of cybercrime by alerting them to potential threats and providing useful recommendations on how to minimize the potential impact.
+RICO is a dedicated set of [tools developed by VESNX](https://vesnx.com) to record and report suspicious activities that could indicate cyber abuse or compromise. Our goal is to aid victims of cybercrime by alerting them to potential threats and providing useful recommendations on how to minimize the potential impact.
 
 ## What We Do
 
@@ -16,7 +16,7 @@ By alerting victims to these potential threats, we hope to empower them to take 
 
 ## Why We Do It
 
-We believe in a safer internet where users are empowered and informed. By developing RICO, we aim to promote transparency, security, and resilience against cybercrimes. With our collective efforts, we can mitigate the effects of cybercrimes and make the internet a safer space for everyone.
+Our goal is to create a safer internet that empowers and informs users. With RICO, users with varying levels of IT knowledge can obtain transparent and direct security measurements to strengthen their in-house resilience against cybercrime.
 
 ## We Value Feedback and Contributions
 
