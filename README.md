@@ -1,4 +1,6 @@
 # RICO (Reporting Incidents & Compromised Operations)
+Available translations: [🇯🇵 日本語](./README.jp.md) | [🇫🇷 Français](./README.fr.md) | [🇮🇹 Italiano](./README.it.md) | [🇪🇸 Español](./README.es.md) | [🇵🇹 Português](./README.pt.md) | [🇩🇪 Deutsch](./README.de.md)
+
 
 RICO is a dedicated set of [tools developed by VESNX](https://vesnx.com) to record and report suspicious activities that could indicate cyber abuse or compromise. Our goal is to aid victims of cybercrime by alerting them to potential threats and providing useful recommendations on how to minimize the potential impact.
 
